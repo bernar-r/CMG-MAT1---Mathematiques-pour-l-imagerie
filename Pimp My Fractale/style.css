@@ -1,0 +1,50 @@
+
+body {
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-right: 10px;
+    background-color: #f9f9f9;
+}
+
+form{
+    z-index: 10;
+    position: relative;
+}
+
+.option {
+    z-index: 10;
+    text-align: center;
+    position: relative;
+}
+
+.boite {
+    z-index: 10;
+    color: #565656;
+    min-width: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 75%;
+    background-color: rgba(0, 0, 0, 0.2);
+    position: relative;
+}
+
+.fractale {
+    position: absolute;
+    left: 398px;
+    top: 0;
+    display: block;
+    margin: auto;
+}
+
+h4
+{
+    text-align: center;
+    color: #565656;
+  
+}
+
+hr
+{
+    margin-left: 10%;
+    margin-right: 10%;
+}
