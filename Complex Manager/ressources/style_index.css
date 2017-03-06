@@ -1,0 +1,40 @@
+body
+{
+    background-color: #CED5DC;
+    color: #515C67;
+    text-align: center;
+}
+
+input
+{
+    margin-top: -20px;
+}
+
+.formulaire
+{
+    border-radius: 10px;
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 30px;
+    background: linear-gradient(to top, rgba(255,0,0,0), rgba(81,92,103,1));
+    width: 350px;
+    margin: auto;
+}
+
+.articles
+{
+    padding-top: 1px;
+    border-radius: 10px;
+    margin-top: 50px;
+    background: linear-gradient(to top, rgba(0,0,0,0), rgba(255,255,255,1));
+    min-width: 350px;
+    height: 100px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.articles p
+{
+    margin-left: 5px;
+    text-align: center;     
+}
